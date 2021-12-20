@@ -15,3 +15,21 @@
 <a href = https://www.kaggle.com/anuj0721 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg height='30' weight='30'/></a>
 <a href = https://github.com/anuj0721 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/anuj-gupta-324397194/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href="mailto:anujgupta0721@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+  
+ &emsp;
+
+<p align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+ <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+&emsp;
+
+![Anuj Gupta's Github Stats](https://github-readme-stats.vercel.app/api?username=anuj0721&count_private=true&show_icons=true&include_all_commits=true&theme=calm)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj0721&theme=calm">
