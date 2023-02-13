@@ -4,7 +4,7 @@
 <h1 align='center'>Hey 👋, This is Anuj Gutpa</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a third year B.Tech. Information Technology student at IIIT Gwalior with interest in Artificial Intelligence, Machine Learning and Data Science. 
+<p align='center'>I am a Fourth year B.Tech. Information Technology student at IIIT Gwalior with interest in Artificial Intelligence, Machine Learning and Data Science. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj071" alt="anuj0721" /> </p>
 
 - 🌱 I’m currently learning Deep Learning and Keras.
