@@ -4,17 +4,17 @@
 <h1 align='center'>Hey 👋, This is Anuj Gutpa</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a fourth year B.Tech. Information Technology student at IIIT Gwalior with interest in Artificial Intelligence, Machine Learning and Data Science. 
+<p align='center'>I am a final year B.Tech. Information Technology student at IIIT Gwalior with interest in Software Development and Machine Learning. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj071" alt="anuj0721" /> </p>
 
 - 🌱 I’m currently learning Deep Learning and Keras.
-- 💬 Ask me about Machine Learning, Python and Data Science.
+- 💬 Ask me about Machine Learning, Web Development.
 - 📫 How to reach me: anujgupta0721@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
 <a href = https://www.kaggle.com/anuj0721 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg height='30' weight='30'/></a>
 <a href = https://github.com/anuj0721 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/anuj-gupta-324397194/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://www.linkedin.com/in/anuj_0721/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href="mailto:anujgupta0721@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
 <a href=https://twitter.com/Anujguptaaa target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
   
