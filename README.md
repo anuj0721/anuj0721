@@ -27,6 +27,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" alt="Linux" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  
 </p>
 
 &emsp;
